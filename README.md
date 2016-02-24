@@ -4,7 +4,7 @@ Based on https://github.com/soumith/cifar.torch.git
 VIPeR format
 ---------------
 Writes 1 file: VIPeR.t7<br />
-Two images of one pedestrian are placed one next the other.
+Two images of one pedestrian are placed one next to the other.
 
 File is a table of the form:
 ```lua
